@@ -8,8 +8,8 @@ Mesoscale Modeling
 
 Weather Research and Forecasting (WRF)
 --------------------------------------
-Tool for numerical weather prediction developed at the National Center for
-Atmospheric Research (NCAR), the National Oceanic and Atmospheric
+WRF is a tool for numerical weather prediction developed at the National Center
+for Atmospheric Research (NCAR), the National Oceanic and Atmospheric
 Administration (NOAA), the former Air Force Weather Agency (AFWA), the Naval
 Research Laboratory, the University of Oklahoma, and the Federal Aviation
 Administration (FAA).
@@ -20,9 +20,16 @@ More information: https://www.mmm.ucar.edu/weather-research-and-forecasting-mode
 Microscale Modeling
 ===================
 
+WRF-LES
+-------
+Running WRF in large-eddy simulation (LES) mode, nested within a mesoscale WRF
+parent domain allows for online coupling between meso- and micro-scales.
+WRF-LES implements a generalized actuator disk and generalized actuator line.
+
+
 Simulator fOr Wind Farm Applications (SOWFA)
 --------------------------------------------
-CFD tools developed at the National Renewable Energy Laboratory (NREL) based on
+SOWFA is a set of CFD tools developed at the National Renewable Energy Laboratory (NREL) based on
 the open-source OpenFOAM (Field Operation And Manipulation) platform for
 simulating the microscale atmospheric boundary layer environment. Wind turbines
 are modeled as actuator lines (or actuator disks) with the option to include

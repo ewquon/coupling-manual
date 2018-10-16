@@ -1,6 +1,10 @@
 Mesoscale-to-Microscale Coupling Manual
 =======================================
 
+This documentation should provide a good starting point for performing
+high-fidelity wind-plant simulations with mesoscale-to-microscale coupling
+(MMC).
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
