@@ -1,9 +1,12 @@
 Mesoscale-to-Microscale Coupling Manual
 =======================================
 
-This documentation should provide a good starting point for performing
-high-fidelity wind-plant simulations with mesoscale-to-microscale coupling
-(MMC).
+***CURRENTLY UNDER CONSTRUCTION***
+
+This documentation describes ongoing work at the National Renewable Energy
+Laboratory (NREL) in mesoscale-to-microscale coupling (MMC). These docs should
+provide a good starting point for performing high-fidelity MMC wind-plant
+simulations using the WRF/SOWFA mesoscale/microscale solvers.
 
 .. toctree::
    :maxdepth: 3
