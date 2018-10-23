@@ -1,6 +1,6 @@
-***************
-Supported Codes
-***************
+*****
+Codes
+*****
 
 
 Mesoscale Modeling
@@ -20,13 +20,6 @@ More information: https://www.mmm.ucar.edu/weather-research-and-forecasting-mode
 Microscale Modeling
 ===================
 
-WRF-LES
--------
-Running WRF in large-eddy simulation (LES) mode, nested within a mesoscale WRF
-parent domain allows for online coupling between meso- and micro-scales.
-WRF-LES implements a generalized actuator disk and generalized actuator line.
-
-
 Simulator fOr Wind Farm Applications (SOWFA)
 --------------------------------------------
 SOWFA is a set of CFD tools developed at the National Renewable Energy Laboratory (NREL) based on
@@ -40,11 +33,20 @@ comprehensive aeroservoelastic capabilities.
 More information: https://nwtc.nrel.gov/SOWFA
 
 
+Other Codes
+===========
+
+WRF-LES
+-------
+Running WRF in large-eddy simulation (LES) mode, nested within a mesoscale WRF
+parent domain allows for online coupling between meso- and micro-scales.
+WRF-LES implements a generalized actuator disk and generalized actuator line.
+
 Nalu
 ----
-An exascale-capable code under current development by NREL and Sandia National
-Laboratories using the Sierra Toolkit and Trilinos solver. MMC capabilities
-from SOWFA will be extended to Nalu in the near future.
+An exascale-capable microscale code under current development by NREL and Sandia
+National Laboratories using the Sierra Toolkit and Trilinos solver. MMC
+capabilities from SOWFA will be extended to Nalu in the future.
 
 More information: https://nalu.readthedocs.io
 
